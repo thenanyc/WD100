@@ -1,0 +1,25 @@
+<!-- All Pages -->
+
+body {background-image: url("../img/background-wc.png");}
+.titlednicole {font-family: Didot,"Didot LT STD","Hoefler Text",Garamond,"Times New Roman",serif;
+	 color: purple; background-color: #E0FFFF;text-shadow: -3px 2px 2px slategrey;}
+.subtitle {background-color: #E0B0FF; text-shadow: -3px 2px 2px slategrey;}
+.topmenu {font-family: impact; list-style-type: square; background-color: #C2DFFF;}
+a:hover{text-transform: uppercase; text-decoration: none; color:magenta;}
+a{text-decoration: none;}
+
+<!-- Index-->
+
+#indexphoto {width: 600; height: 800;}
+
+<!-- Portfolio -->
+
+.portfoliophoto1 {width: 50%; height: 100%;}
+.portfoliophoto2 {width: 50%; height: 100%;}
+.portfoliophoto3 {width: 50%; height: 100%;}
+.portfoliophoto4 {width: 100%; height: 100%;}
+
+<!-- About-->
+
+#aboutphoto {width: 1000; height: 400}
+#bio {font-family: Verdana, sans serif; max-width: 1000}
